@@ -20,24 +20,3 @@ Uptime Kuma es una herramienta moderna, elegante y de código abierto para monit
 uptimekuma/
 ├── docker-compose.yml
 └── .env (opcional)
-```bash
-
-📦 Instrucciones para desplegar
-1. Clonar el repositorio
-bash
-Copiar
-Editar
-git clone git@github.com:Nyxazzz/UptimeKuma.git
-cd UptimeKuma
-2. Desplegar con Docker Compose
-bash
-Copiar
-Editar
-docker compose up -d
-3. Acceder a la interfaz
-Abre tu navegador en:
-
-cpp
-Copiar
-Editar
-http://<IP-de-tu-servidor>:3001
